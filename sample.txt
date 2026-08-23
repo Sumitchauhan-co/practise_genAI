@@ -1,0 +1,5 @@
+Project Nebula Overview
+Project Nebula is an internal initiative initiated in Q3 2025 to overhaul the cloud infrastructure. The primary goal is to reduce latency by 45% and migrate all legacy microservices to a containerized Kubernetes architecture. 
+Lead Architect: Dr. Elena Vance.
+Budget: $4.2 Million.
+Deadline: December 2026.

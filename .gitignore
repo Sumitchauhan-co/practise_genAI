@@ -1,0 +1,5 @@
+.env
+.venv
+vector.db
+tasks.db
+doc_files
